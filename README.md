@@ -25,5 +25,5 @@ ORDER BY salary DESC;
 
 ## 👤 Author
 **[Samarth Melsingare]**  
-Aspiring Data Analyst | Power BI • Excel • SQL • Basic Python  
+Aspiring Data Analyst | Excel • Power BI • SQL • Basic Python  
 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Samarth-Melsingare/HR-Data-Management-System)
