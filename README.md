@@ -21,3 +21,7 @@ Defines and populates core HR tables (regions, countries, locations, jobs, depar
 SELECT TOP 5 *  
 FROM employees  
 ORDER BY salary DESC;
+
+
+## Author
+- Samarth Melsingare (samarthmelsingare@gmail.com/LinkedIn/(github.com/Samarth-Melsingare/HR-Data-Management-System))
