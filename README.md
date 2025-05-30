@@ -24,4 +24,4 @@ ORDER BY salary DESC;
 
 
 ## Author
-- Samarth Melsingare (samarthmelsingare@gmail.com/LinkedIn/(github.com/Samarth-Melsingare/HR-Data-Management-System))
+- Samarth Melsingare (samarthmelsingare@gmail.com/LinkedIn/(https://github.com/Samarth-Melsingare/HR-Data-Management-System))
