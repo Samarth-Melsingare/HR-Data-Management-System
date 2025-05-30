@@ -23,5 +23,7 @@ FROM employees
 ORDER BY salary DESC;
 
 
-## Author
-- Samarth Melsingare (samarthmelsingare@gmail.com/LinkedIn/(https://github.com/Samarth-Melsingare/HR-Data-Management-System))
+## 👤 Author
+**[Samarth Melsingare]**  
+Aspiring Data Analyst | Power BI • Excel • SQL  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Samarth-Melsingare/HR-Data-Management-System)
