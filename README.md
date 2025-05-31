@@ -1,7 +1,6 @@
 # SQL Mega Project: HR Data Management System
 ## 📊 Project Overview
-A full-featured **Human Resources Data Management System** implemented in Microsoft SQL Server.  
-
+This SQL-based HRDMS project focuses on analyzing employee data to uncover actionable HR insights such as attrition trends, departmental staffing, compensation analysis, and performance tracking using structured SQL queries.
 Defines and populates core HR tables (regions, countries, locations, jobs, departments, employees, dependents) and demonstrates advanced querying techniques.
 
 ## Key Deliverables
@@ -21,6 +20,15 @@ Defines and populates core HR tables (regions, countries, locations, jobs, depar
 SELECT TOP 5 *  
 FROM employees  
 ORDER BY salary DESC;
+
+## Insights
+- Highest attrition observed in the Sales department.
+- Younger employees (under 30) and those with fewer years at the company show higher turnover rates.
+- Managers and Senior Engineers command the highest average salaries.
+- Entry-level positions are concentrated in the Technical and HR departments.
+- Over 60% of employees have less than 5 years of experience.
+- Only a small percentage of employees have stayed for more than 10 years, which could indicate retention challenges.
+
 
 
 ## 👤 Author
